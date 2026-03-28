@@ -5,3 +5,5 @@ This repository is a showcase of my lab work at SUNY New Paltz in my cyber secur
 ## Table of Contents
 
 ### [1. Linux Security Basics Lab](./Lab1.pdf)
+
+### [2. Environment Variables & Set-UID Programs Lab](./Lab2.pdf)
